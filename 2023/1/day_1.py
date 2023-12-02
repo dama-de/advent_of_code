@@ -1,5 +1,5 @@
 d = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
-f = open("input.txt").readlines()
+f = open("input.txt")
 
 def a(w: str):
     if not w:
